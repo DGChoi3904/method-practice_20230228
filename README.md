@@ -2,3 +2,5 @@
 ## Purpose
 +learn how to build dynamic rendering webpage
 +improve paircoding skill with others.
++REMEMBER - html will written with KOREAN.
+
